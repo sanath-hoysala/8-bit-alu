@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Nov 28 17:22:08 2022
+# Process ID: 4440
+# Current directory: S:/Personal/Vivado ML/ALU_8bit/ALU_8bit.runs/synth_1
+# Command line: vivado.exe -log ALU_8bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_8bit.tcl
+# Log file: S:/Personal/Vivado ML/ALU_8bit/ALU_8bit.runs/synth_1/ALU_8bit.vds
+# Journal file: S:/Personal/Vivado ML/ALU_8bit/ALU_8bit.runs/synth_1\vivado.jou
+# Running On: sanathhoysala, OS: Windows, CPU Frequency: 2096 MHz, CPU Physical cores: 8, Host memory: 6376 MB
+#-----------------------------------------------------------
+source ALU_8bit.tcl -notrace
